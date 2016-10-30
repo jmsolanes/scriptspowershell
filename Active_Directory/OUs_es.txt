@@ -1,0 +1,14 @@
+Administradores
+Servicios
+Empresa
+Externos
+Estaciones de Trabajo
+Móviles
+VDIs
+NAS
+Hipervisores
+Clústeres
+Servidores miembros
+USUARIOS
+EQUIPOS
+Grupos de seguridad
